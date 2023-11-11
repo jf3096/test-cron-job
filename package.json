@@ -6,7 +6,7 @@
   "author": "sheailun <sheailun@kingsoft.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.26.1"
+    "axios": "1.6.0"
   },
   "scripts": {
     "start": "node src/index.js",
